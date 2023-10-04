@@ -7,7 +7,9 @@ The campaign is split into chapters.
 ## Prelude
 
 In the prelude the characters are introduced to each other and to the world.
+
 [[Session 1|Session 1]]
+
 ## Chapter 1: [[Ibelin|Ibelin]]
 
 Characters have adventures around [[Ibelin|Ibelin]]. The chapter ends with the discovery of the buried headquarters of the [[Order of the Knights of the Temple|Order of the Knights of the Temple]]. The paladinic tradition awakes.
@@ -26,6 +28,8 @@ Downtime in [[Ibelin|Ibelin]]. Characters discover new abilities and get ready f
 Begins with crossing the [[Desert|Desert]] and arriving at [[Iskaderija|Iskaderija]].
 
 [[Session 5|Session 5]]
+
+
 
 
 
